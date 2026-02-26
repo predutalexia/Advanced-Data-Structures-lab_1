@@ -10,9 +10,6 @@
 - **Inorder traversal** — prints all keys in sorted order
 - **Minimum / Maximum** — finds the smallest and largest key in the tree
 
-## How It Works
-
-A BST stores each node with a key, a left child pointer, and a right child pointer. At any node, all values in the left subtree are smaller and all values in the right subtree are larger. This property makes search, insertion, and deletion efficient.
 
 ### Deletion Cases
 1. **Leaf node** — simply remove it
